@@ -1,0 +1,26 @@
+.uno{
+	margin-top:1%;
+	margin-left:1%;
+	background-color:#9999ff;
+	border: 2px solid black;	
+}
+
+.mensaje{
+	margin:1%;
+	background-color:#f3f3f3;
+	color: black;
+	border: 2px solid #ffff04;	
+}
+
+.dos{
+	background-color: #ce8845;
+	margin-left:1%;
+}
+
+.comentario{
+	border-bottom: 2px solid green;
+	margin: 10px;
+	font-size: 10px;
+	color: white;
+
+}
